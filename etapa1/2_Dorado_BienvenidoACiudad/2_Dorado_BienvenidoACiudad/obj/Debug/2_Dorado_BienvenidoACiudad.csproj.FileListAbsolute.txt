@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\etapa 1\2_Dorado_BienvenidoACiudad\2_Dorado_BienvenidoACiudad\bin\Debug\2_Dorado_BienvenidoACiudad.exe.config
+C:\Users\alumno.ET37\Documents\etapa 1\2_Dorado_BienvenidoACiudad\2_Dorado_BienvenidoACiudad\bin\Debug\2_Dorado_BienvenidoACiudad.exe
+C:\Users\alumno.ET37\Documents\etapa 1\2_Dorado_BienvenidoACiudad\2_Dorado_BienvenidoACiudad\bin\Debug\2_Dorado_BienvenidoACiudad.pdb
+C:\Users\alumno.ET37\Documents\etapa 1\2_Dorado_BienvenidoACiudad\2_Dorado_BienvenidoACiudad\obj\Debug\2_Dorado_BienvenidoACiudad.exe
+C:\Users\alumno.ET37\Documents\etapa 1\2_Dorado_BienvenidoACiudad\2_Dorado_BienvenidoACiudad\obj\Debug\2_Dorado_BienvenidoACiudad.pdb
+C:\Users\alumno.ET37\Documents\etapa 1\2_Dorado_BienvenidoACiudad\2_Dorado_BienvenidoACiudad\obj\Debug\2_Dorado_BienvenidoACiudad.csprojResolveAssemblyReference.cache
