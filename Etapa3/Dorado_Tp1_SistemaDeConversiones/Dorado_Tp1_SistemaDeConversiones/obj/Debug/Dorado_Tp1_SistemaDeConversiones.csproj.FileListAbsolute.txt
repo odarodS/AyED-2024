@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3\Dorado_Tp1_SistemaDeConversiones\Dorado_Tp1_SistemaDeConversiones\bin\Debug\Dorado_Tp1_SistemaDeConversiones.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3\Dorado_Tp1_SistemaDeConversiones\Dorado_Tp1_SistemaDeConversiones\bin\Debug\Dorado_Tp1_SistemaDeConversiones.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3\Dorado_Tp1_SistemaDeConversiones\Dorado_Tp1_SistemaDeConversiones\bin\Debug\Dorado_Tp1_SistemaDeConversiones.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3\Dorado_Tp1_SistemaDeConversiones\Dorado_Tp1_SistemaDeConversiones\obj\Debug\Dorado_Tp1_SistemaDeConversiones.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3\Dorado_Tp1_SistemaDeConversiones\Dorado_Tp1_SistemaDeConversiones\obj\Debug\Dorado_Tp1_SistemaDeConversiones.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3\Dorado_Tp1_SistemaDeConversiones\Dorado_Tp1_SistemaDeConversiones\obj\Debug\Dorado_Tp1_SistemaDeConversiones.pdb
