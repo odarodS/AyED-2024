@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3\Dorado_0_MiPrimerFuncion\Dorado_0_MiPrimerFuncion\bin\Debug\Dorado_0_MiPrimerFuncion.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3\Dorado_0_MiPrimerFuncion\Dorado_0_MiPrimerFuncion\obj\Debug\Dorado_0_MiPrimerFuncion.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3\Dorado_0_MiPrimerFuncion\Dorado_0_MiPrimerFuncion\bin\Debug\Dorado_0_MiPrimerFuncion.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3\Dorado_0_MiPrimerFuncion\Dorado_0_MiPrimerFuncion\bin\Debug\Dorado_0_MiPrimerFuncion.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3\Dorado_0_MiPrimerFuncion\Dorado_0_MiPrimerFuncion\obj\Debug\Dorado_0_MiPrimerFuncion.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3\Dorado_0_MiPrimerFuncion\Dorado_0_MiPrimerFuncion\obj\Debug\Dorado_0_MiPrimerFuncion.pdb
