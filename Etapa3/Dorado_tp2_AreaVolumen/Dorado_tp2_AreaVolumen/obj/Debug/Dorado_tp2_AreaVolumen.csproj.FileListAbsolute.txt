@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3 N2\Dorado_tp2_AreaVolumen\Dorado_tp2_AreaVolumen\bin\Debug\Dorado_tp2_AreaVolumen.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3 N2\Dorado_tp2_AreaVolumen\Dorado_tp2_AreaVolumen\obj\Debug\Dorado_tp2_AreaVolumen.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3 N2\Dorado_tp2_AreaVolumen\Dorado_tp2_AreaVolumen\bin\Debug\Dorado_tp2_AreaVolumen.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3 N2\Dorado_tp2_AreaVolumen\Dorado_tp2_AreaVolumen\bin\Debug\Dorado_tp2_AreaVolumen.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3 N2\Dorado_tp2_AreaVolumen\Dorado_tp2_AreaVolumen\obj\Debug\Dorado_tp2_AreaVolumen.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3 N2\Dorado_tp2_AreaVolumen\Dorado_tp2_AreaVolumen\obj\Debug\Dorado_tp2_AreaVolumen.pdb
