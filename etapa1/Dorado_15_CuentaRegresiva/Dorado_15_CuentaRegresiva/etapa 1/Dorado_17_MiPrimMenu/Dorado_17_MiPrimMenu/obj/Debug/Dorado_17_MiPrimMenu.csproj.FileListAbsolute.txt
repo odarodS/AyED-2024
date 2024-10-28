@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\sebastian\etapa 1\Dorado_17_MiPrimMenu\Dorado_17_MiPrimMenu\bin\Debug\Dorado_17_MiPrimMenu.exe.config
+C:\Users\alumno.ET37\Documents\sebastian\etapa 1\Dorado_17_MiPrimMenu\Dorado_17_MiPrimMenu\bin\Debug\Dorado_17_MiPrimMenu.exe
+C:\Users\alumno.ET37\Documents\sebastian\etapa 1\Dorado_17_MiPrimMenu\Dorado_17_MiPrimMenu\bin\Debug\Dorado_17_MiPrimMenu.pdb
+C:\Users\alumno.ET37\Documents\sebastian\etapa 1\Dorado_17_MiPrimMenu\Dorado_17_MiPrimMenu\obj\Debug\Dorado_17_MiPrimMenu.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\sebastian\etapa 1\Dorado_17_MiPrimMenu\Dorado_17_MiPrimMenu\obj\Debug\Dorado_17_MiPrimMenu.exe
+C:\Users\alumno.ET37\Documents\sebastian\etapa 1\Dorado_17_MiPrimMenu\Dorado_17_MiPrimMenu\obj\Debug\Dorado_17_MiPrimMenu.pdb

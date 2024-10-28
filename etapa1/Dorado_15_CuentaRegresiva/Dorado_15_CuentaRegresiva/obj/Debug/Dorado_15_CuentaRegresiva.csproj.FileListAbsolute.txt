@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_15_CuentaRegresiva\Dorado_15_CuentaRegresiva\bin\Debug\Dorado_15_CuentaRegresiva.exe.config
+C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_15_CuentaRegresiva\Dorado_15_CuentaRegresiva\bin\Debug\Dorado_15_CuentaRegresiva.exe
+C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_15_CuentaRegresiva\Dorado_15_CuentaRegresiva\bin\Debug\Dorado_15_CuentaRegresiva.pdb
+C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_15_CuentaRegresiva\Dorado_15_CuentaRegresiva\obj\Debug\Dorado_15_CuentaRegresiva.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_15_CuentaRegresiva\Dorado_15_CuentaRegresiva\obj\Debug\Dorado_15_CuentaRegresiva.exe
+C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_15_CuentaRegresiva\Dorado_15_CuentaRegresiva\obj\Debug\Dorado_15_CuentaRegresiva.pdb
