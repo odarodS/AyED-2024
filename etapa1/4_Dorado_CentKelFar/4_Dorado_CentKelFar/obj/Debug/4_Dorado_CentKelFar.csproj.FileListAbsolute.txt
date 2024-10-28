@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\4_Dorado_CentKelFar\4_Dorado_CentKelFar\bin\Debug\4_Dorado_CentKelFar.exe.config
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\4_Dorado_CentKelFar\4_Dorado_CentKelFar\bin\Debug\4_Dorado_CentKelFar.exe
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\4_Dorado_CentKelFar\4_Dorado_CentKelFar\bin\Debug\4_Dorado_CentKelFar.pdb
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\4_Dorado_CentKelFar\4_Dorado_CentKelFar\obj\Debug\4_Dorado_CentKelFar.exe
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\4_Dorado_CentKelFar\4_Dorado_CentKelFar\obj\Debug\4_Dorado_CentKelFar.pdb
