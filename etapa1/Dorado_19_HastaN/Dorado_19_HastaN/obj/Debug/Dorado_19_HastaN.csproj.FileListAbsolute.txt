@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 0\Dorado_19_HastaN\Dorado_19_HastaN\bin\Debug\Dorado_19_HastaN.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 0\Dorado_19_HastaN\Dorado_19_HastaN\bin\Debug\Dorado_19_HastaN.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 0\Dorado_19_HastaN\Dorado_19_HastaN\bin\Debug\Dorado_19_HastaN.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 0\Dorado_19_HastaN\Dorado_19_HastaN\obj\Debug\Dorado_19_HastaN.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 0\Dorado_19_HastaN\Dorado_19_HastaN\obj\Debug\Dorado_19_HastaN.pdb
