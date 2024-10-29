@@ -1,0 +1,12 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 2\Dorado_0_LaCarreraDeHomero\Dorado_0_LaCarreraDeHomero\bin\Debug\Dorado_0_LaCarreraDeHomero.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 2\Dorado_0_LaCarreraDeHomero\Dorado_0_LaCarreraDeHomero\bin\Debug\Dorado_0_LaCarreraDeHomero.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 2\Dorado_0_LaCarreraDeHomero\Dorado_0_LaCarreraDeHomero\bin\Debug\Dorado_0_LaCarreraDeHomero.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 2\Dorado_0_LaCarreraDeHomero\Dorado_0_LaCarreraDeHomero\obj\Debug\Dorado_0_LaCarreraDeHomero.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 2\Dorado_0_LaCarreraDeHomero\Dorado_0_LaCarreraDeHomero\obj\Debug\Dorado_0_LaCarreraDeHomero.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 2\Dorado_0_LaCarreraDeHomero\Dorado_0_LaCarreraDeHomero\obj\Debug\Dorado_0_LaCarreraDeHomero.pdb
+C:\Users\alumno.ET37\Downloads\etapa 2\Dorado_0_LaCarreraDeHomero\Dorado_0_LaCarreraDeHomero\bin\Debug\Dorado_0_LaCarreraDeHomero.exe.config
+C:\Users\alumno.ET37\Downloads\etapa 2\Dorado_0_LaCarreraDeHomero\Dorado_0_LaCarreraDeHomero\obj\Debug\Dorado_0_LaCarreraDeHomero.exe
+C:\Users\alumno.ET37\Downloads\etapa 2\Dorado_0_LaCarreraDeHomero\Dorado_0_LaCarreraDeHomero\obj\Debug\Dorado_0_LaCarreraDeHomero.pdb
+C:\Users\alumno.ET37\Downloads\etapa 2\Dorado_0_LaCarreraDeHomero\Dorado_0_LaCarreraDeHomero\bin\Debug\Dorado_0_LaCarreraDeHomero.exe
+C:\Users\alumno.ET37\Downloads\etapa 2\Dorado_0_LaCarreraDeHomero\Dorado_0_LaCarreraDeHomero\bin\Debug\Dorado_0_LaCarreraDeHomero.pdb
+C:\Users\alumno.ET37\Downloads\etapa 2\Dorado_0_LaCarreraDeHomero\Dorado_0_LaCarreraDeHomero\obj\Debug\Dorado_0_LaCarreraDeHomero.csprojResolveAssemblyReference.cache
