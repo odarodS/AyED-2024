@@ -1,0 +1,12 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 2\3_Dorado_VueltaAClases\3_Dorado_VueltaAClases\bin\Debug\3_Dorado_VueltaAClases.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 2\3_Dorado_VueltaAClases\3_Dorado_VueltaAClases\bin\Debug\3_Dorado_VueltaAClases.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 2\3_Dorado_VueltaAClases\3_Dorado_VueltaAClases\bin\Debug\3_Dorado_VueltaAClases.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 2\3_Dorado_VueltaAClases\3_Dorado_VueltaAClases\obj\Debug\3_Dorado_VueltaAClases.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 2\3_Dorado_VueltaAClases\3_Dorado_VueltaAClases\obj\Debug\3_Dorado_VueltaAClases.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 2\3_Dorado_VueltaAClases\3_Dorado_VueltaAClases\obj\Debug\3_Dorado_VueltaAClases.pdb
+C:\Users\alumno.ET37\Downloads\3_Dorado_VueltaAClases\3_Dorado_VueltaAClases\bin\Debug\3_Dorado_VueltaAClases.exe.config
+C:\Users\alumno.ET37\Downloads\3_Dorado_VueltaAClases\3_Dorado_VueltaAClases\obj\Debug\3_Dorado_VueltaAClases.exe
+C:\Users\alumno.ET37\Downloads\3_Dorado_VueltaAClases\3_Dorado_VueltaAClases\obj\Debug\3_Dorado_VueltaAClases.pdb
+C:\Users\alumno.ET37\Downloads\3_Dorado_VueltaAClases\3_Dorado_VueltaAClases\bin\Debug\3_Dorado_VueltaAClases.exe
+C:\Users\alumno.ET37\Downloads\3_Dorado_VueltaAClases\3_Dorado_VueltaAClases\bin\Debug\3_Dorado_VueltaAClases.pdb
+C:\Users\alumno.ET37\Downloads\3_Dorado_VueltaAClases\3_Dorado_VueltaAClases\obj\Debug\3_Dorado_VueltaAClases.csprojResolveAssemblyReference.cache
