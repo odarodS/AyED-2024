@@ -1,0 +1,7 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp1_Dorado_LaFiestaDeStich\tp1_Dorado_LaFiestaDeStich\bin\Debug\tp1_Dorado_LaFiestaDeStich.exe.config
+C:\Users\alumno.ET37\Downloads\etapa 2\tp1_Dorado_LaFiestaDeStich\tp1_Dorado_LaFiestaDeStich\bin\Debug\tp1_Dorado_LaFiestaDeStich.exe.config
+C:\Users\alumno.ET37\Downloads\etapa 2\tp1_Dorado_LaFiestaDeStich\tp1_Dorado_LaFiestaDeStich\bin\Debug\tp1_Dorado_LaFiestaDeStich.exe
+C:\Users\alumno.ET37\Downloads\etapa 2\tp1_Dorado_LaFiestaDeStich\tp1_Dorado_LaFiestaDeStich\bin\Debug\tp1_Dorado_LaFiestaDeStich.pdb
+C:\Users\alumno.ET37\Downloads\etapa 2\tp1_Dorado_LaFiestaDeStich\tp1_Dorado_LaFiestaDeStich\obj\Debug\tp1_Dorado_LaFiestaDeStich.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\etapa 2\tp1_Dorado_LaFiestaDeStich\tp1_Dorado_LaFiestaDeStich\obj\Debug\tp1_Dorado_LaFiestaDeStich.exe
+C:\Users\alumno.ET37\Downloads\etapa 2\tp1_Dorado_LaFiestaDeStich\tp1_Dorado_LaFiestaDeStich\obj\Debug\tp1_Dorado_LaFiestaDeStich.pdb

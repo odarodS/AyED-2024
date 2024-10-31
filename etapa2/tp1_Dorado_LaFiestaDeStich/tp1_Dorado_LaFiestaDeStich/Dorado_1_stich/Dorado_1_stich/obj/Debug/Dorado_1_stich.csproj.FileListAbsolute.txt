@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_1_stich\Dorado_1_stich\bin\Debug\Dorado_1_stich.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_1_stich\Dorado_1_stich\obj\Debug\Dorado_1_stich.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_1_stich\Dorado_1_stich\bin\Debug\Dorado_1_stich.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_1_stich\Dorado_1_stich\bin\Debug\Dorado_1_stich.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_1_stich\Dorado_1_stich\obj\Debug\Dorado_1_stich.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_1_stich\Dorado_1_stich\obj\Debug\Dorado_1_stich.pdb
