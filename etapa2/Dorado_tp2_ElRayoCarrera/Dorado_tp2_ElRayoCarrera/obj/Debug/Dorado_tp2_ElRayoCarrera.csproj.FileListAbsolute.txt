@@ -1,0 +1,18 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\bin\Debug\Dorado_tp2_ElRayoCarrera.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\obj\Debug\Dorado_tp2_ElRayoCarrera.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\bin\Debug\Dorado_tp2_ElRayoCarrera.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\bin\Debug\Dorado_tp2_ElRayoCarrera.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\obj\Debug\Dorado_tp2_ElRayoCarrera.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\obj\Debug\Dorado_tp2_ElRayoCarrera.pdb
+C:\Users\alumno.ET37\Downloads\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\bin\Debug\Dorado_tp2_ElRayoCarrera.exe.config
+C:\Users\alumno.ET37\Downloads\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\obj\Debug\Dorado_tp2_ElRayoCarrera.exe
+C:\Users\alumno.ET37\Downloads\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\obj\Debug\Dorado_tp2_ElRayoCarrera.pdb
+C:\Users\alumno.ET37\Downloads\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\obj\Debug\Dorado_tp2_ElRayoCarrera.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\bin\Debug\Dorado_tp2_ElRayoCarrera.exe
+C:\Users\alumno.ET37\Downloads\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\bin\Debug\Dorado_tp2_ElRayoCarrera.pdb
+C:\Users\alumno.ET37\Downloads\etapa 2\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\bin\Debug\Dorado_tp2_ElRayoCarrera.exe.config
+C:\Users\alumno.ET37\Downloads\etapa 2\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\obj\Debug\Dorado_tp2_ElRayoCarrera.exe
+C:\Users\alumno.ET37\Downloads\etapa 2\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\obj\Debug\Dorado_tp2_ElRayoCarrera.pdb
+C:\Users\alumno.ET37\Downloads\etapa 2\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\bin\Debug\Dorado_tp2_ElRayoCarrera.exe
+C:\Users\alumno.ET37\Downloads\etapa 2\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\bin\Debug\Dorado_tp2_ElRayoCarrera.pdb
+C:\Users\alumno.ET37\Downloads\etapa 2\Dorado_tp2_ElRayoCarrera\Dorado_tp2_ElRayoCarrera\obj\Debug\Dorado_tp2_ElRayoCarrera.csprojResolveAssemblyReference.cache

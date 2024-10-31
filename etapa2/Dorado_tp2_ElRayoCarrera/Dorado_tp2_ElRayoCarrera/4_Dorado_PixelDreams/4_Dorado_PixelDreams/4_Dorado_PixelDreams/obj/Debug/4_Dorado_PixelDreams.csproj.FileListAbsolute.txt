@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\4_Dorado_PixelDreams\4_Dorado_PixelDreams\4_Dorado_PixelDreams\bin\Debug\4_Dorado_PixelDreams.exe.config
+C:\Users\alumno.ET37\Downloads\4_Dorado_PixelDreams\4_Dorado_PixelDreams\4_Dorado_PixelDreams\bin\Debug\4_Dorado_PixelDreams.exe
+C:\Users\alumno.ET37\Downloads\4_Dorado_PixelDreams\4_Dorado_PixelDreams\4_Dorado_PixelDreams\bin\Debug\4_Dorado_PixelDreams.pdb
+C:\Users\alumno.ET37\Downloads\4_Dorado_PixelDreams\4_Dorado_PixelDreams\4_Dorado_PixelDreams\obj\Debug\4_Dorado_PixelDreams.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\4_Dorado_PixelDreams\4_Dorado_PixelDreams\4_Dorado_PixelDreams\obj\Debug\4_Dorado_PixelDreams.exe
+C:\Users\alumno.ET37\Downloads\4_Dorado_PixelDreams\4_Dorado_PixelDreams\4_Dorado_PixelDreams\obj\Debug\4_Dorado_PixelDreams.pdb
