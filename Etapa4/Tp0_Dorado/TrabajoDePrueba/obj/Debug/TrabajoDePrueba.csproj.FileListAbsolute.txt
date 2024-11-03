@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\TrabajoDePrueba\TrabajoDePrueba\bin\Debug\TrabajoDePrueba.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\TrabajoDePrueba\TrabajoDePrueba\bin\Debug\TrabajoDePrueba.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\TrabajoDePrueba\TrabajoDePrueba\bin\Debug\TrabajoDePrueba.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\TrabajoDePrueba\TrabajoDePrueba\obj\Debug\TrabajoDePrueba.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\TrabajoDePrueba\TrabajoDePrueba\obj\Debug\TrabajoDePrueba.Form1.resources
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\TrabajoDePrueba\TrabajoDePrueba\obj\Debug\TrabajoDePrueba.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\TrabajoDePrueba\TrabajoDePrueba\obj\Debug\TrabajoDePrueba.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\TrabajoDePrueba\TrabajoDePrueba\obj\Debug\TrabajoDePrueba.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\TrabajoDePrueba\TrabajoDePrueba\obj\Debug\TrabajoDePrueba.pdb
