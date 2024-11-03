@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Dorado etapa 2 matices\Dorado_11_SumandoMatrices\Dorado_11_SumandoMatrices\bin\Debug\Dorado_11_SumandoMatrices.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Dorado etapa 2 matices\Dorado_11_SumandoMatrices\Dorado_11_SumandoMatrices\bin\Debug\Dorado_11_SumandoMatrices.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Dorado etapa 2 matices\Dorado_11_SumandoMatrices\Dorado_11_SumandoMatrices\bin\Debug\Dorado_11_SumandoMatrices.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Dorado etapa 2 matices\Dorado_11_SumandoMatrices\Dorado_11_SumandoMatrices\obj\Debug\Dorado_11_SumandoMatrices.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Dorado etapa 2 matices\Dorado_11_SumandoMatrices\Dorado_11_SumandoMatrices\obj\Debug\Dorado_11_SumandoMatrices.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Dorado etapa 2 matices\Dorado_11_SumandoMatrices\Dorado_11_SumandoMatrices\obj\Debug\Dorado_11_SumandoMatrices.pdb
