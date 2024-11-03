@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_14_CalificacionesEstudian\Dorado_14_CalificacionesEstudian\bin\Debug\Dorado_14_CalificacionesEstudian.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_14_CalificacionesEstudian\Dorado_14_CalificacionesEstudian\bin\Debug\Dorado_14_CalificacionesEstudian.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_14_CalificacionesEstudian\Dorado_14_CalificacionesEstudian\bin\Debug\Dorado_14_CalificacionesEstudian.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_14_CalificacionesEstudian\Dorado_14_CalificacionesEstudian\obj\Debug\Dorado_14_CalificacionesEstudian.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_14_CalificacionesEstudian\Dorado_14_CalificacionesEstudian\obj\Debug\Dorado_14_CalificacionesEstudian.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_14_CalificacionesEstudian\Dorado_14_CalificacionesEstudian\obj\Debug\Dorado_14_CalificacionesEstudian.csprojResolveAssemblyReference.cache
