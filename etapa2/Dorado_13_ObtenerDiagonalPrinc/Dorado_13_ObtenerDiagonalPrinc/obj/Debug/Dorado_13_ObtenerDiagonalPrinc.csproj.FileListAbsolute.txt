@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_13_ObtenerDiagonalPrinc\Dorado_13_ObtenerDiagonalPrinc\bin\Debug\Dorado_13_ObtenerDiagonalPrinc.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_13_ObtenerDiagonalPrinc\Dorado_13_ObtenerDiagonalPrinc\bin\Debug\Dorado_13_ObtenerDiagonalPrinc.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_13_ObtenerDiagonalPrinc\Dorado_13_ObtenerDiagonalPrinc\bin\Debug\Dorado_13_ObtenerDiagonalPrinc.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_13_ObtenerDiagonalPrinc\Dorado_13_ObtenerDiagonalPrinc\obj\Debug\Dorado_13_ObtenerDiagonalPrinc.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_13_ObtenerDiagonalPrinc\Dorado_13_ObtenerDiagonalPrinc\obj\Debug\Dorado_13_ObtenerDiagonalPrinc.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa 3 tp12\Dorado_13_ObtenerDiagonalPrinc\Dorado_13_ObtenerDiagonalPrinc\obj\Debug\Dorado_13_ObtenerDiagonalPrinc.pdb
