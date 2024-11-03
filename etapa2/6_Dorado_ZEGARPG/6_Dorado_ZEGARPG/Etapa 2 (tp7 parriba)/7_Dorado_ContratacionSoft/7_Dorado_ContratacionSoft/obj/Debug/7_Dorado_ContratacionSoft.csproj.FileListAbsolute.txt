@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 2 (tp7 parriba)\7_Dorado_ContratacionSoft\7_Dorado_ContratacionSoft\bin\Debug\7_Dorado_ContratacionSoft.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 2 (tp7 parriba)\7_Dorado_ContratacionSoft\7_Dorado_ContratacionSoft\bin\Debug\7_Dorado_ContratacionSoft.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 2 (tp7 parriba)\7_Dorado_ContratacionSoft\7_Dorado_ContratacionSoft\bin\Debug\7_Dorado_ContratacionSoft.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 2 (tp7 parriba)\7_Dorado_ContratacionSoft\7_Dorado_ContratacionSoft\obj\Debug\7_Dorado_ContratacionSoft.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 2 (tp7 parriba)\7_Dorado_ContratacionSoft\7_Dorado_ContratacionSoft\obj\Debug\7_Dorado_ContratacionSoft.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 2 (tp7 parriba)\7_Dorado_ContratacionSoft\7_Dorado_ContratacionSoft\obj\Debug\7_Dorado_ContratacionSoft.pdb
