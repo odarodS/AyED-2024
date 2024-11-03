@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp8 Etapa 2\tp8_Dorado_VectorRandomSwitch\tp8_Dorado_VectorRandomSwitch\bin\Debug\tp8_Dorado_VectorRandomSwitch.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp8 Etapa 2\tp8_Dorado_VectorRandomSwitch\tp8_Dorado_VectorRandomSwitch\obj\Debug\tp8_Dorado_VectorRandomSwitch.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp8 Etapa 2\tp8_Dorado_VectorRandomSwitch\tp8_Dorado_VectorRandomSwitch\bin\Debug\tp8_Dorado_VectorRandomSwitch.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp8 Etapa 2\tp8_Dorado_VectorRandomSwitch\tp8_Dorado_VectorRandomSwitch\bin\Debug\tp8_Dorado_VectorRandomSwitch.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp8 Etapa 2\tp8_Dorado_VectorRandomSwitch\tp8_Dorado_VectorRandomSwitch\obj\Debug\tp8_Dorado_VectorRandomSwitch.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp8 Etapa 2\tp8_Dorado_VectorRandomSwitch\tp8_Dorado_VectorRandomSwitch\obj\Debug\tp8_Dorado_VectorRandomSwitch.pdb
