@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 2\5_Dorado_HotSale\5_Dorado_HotSale\bin\Debug\5_Dorado_HotSale.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 2\5_Dorado_HotSale\5_Dorado_HotSale\bin\Debug\5_Dorado_HotSale.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 2\5_Dorado_HotSale\5_Dorado_HotSale\bin\Debug\5_Dorado_HotSale.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 2\5_Dorado_HotSale\5_Dorado_HotSale\obj\Debug\5_Dorado_HotSale.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 2\5_Dorado_HotSale\5_Dorado_HotSale\obj\Debug\5_Dorado_HotSale.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 2\5_Dorado_HotSale\5_Dorado_HotSale\obj\Debug\5_Dorado_HotSale.pdb
