@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa3 3de sept\tp3_Dorado_PuchimonesFuncionales\tp3_Dorado_PuchimonesFuncionales\bin\Debug\tp3_Dorado_PuchimonesFuncionales.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa3 3de sept\tp3_Dorado_PuchimonesFuncionales\tp3_Dorado_PuchimonesFuncionales\bin\Debug\tp3_Dorado_PuchimonesFuncionales.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa3 3de sept\tp3_Dorado_PuchimonesFuncionales\tp3_Dorado_PuchimonesFuncionales\bin\Debug\tp3_Dorado_PuchimonesFuncionales.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa3 3de sept\tp3_Dorado_PuchimonesFuncionales\tp3_Dorado_PuchimonesFuncionales\obj\Debug\tp3_Dorado_PuchimonesFuncionales.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa3 3de sept\tp3_Dorado_PuchimonesFuncionales\tp3_Dorado_PuchimonesFuncionales\obj\Debug\tp3_Dorado_PuchimonesFuncionales.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa3 3de sept\tp3_Dorado_PuchimonesFuncionales\tp3_Dorado_PuchimonesFuncionales\obj\Debug\tp3_Dorado_PuchimonesFuncionales.pdb
