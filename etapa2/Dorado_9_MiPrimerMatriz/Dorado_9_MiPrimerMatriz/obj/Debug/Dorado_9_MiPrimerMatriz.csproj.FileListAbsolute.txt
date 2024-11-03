@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Dorado etapa 2 matices\Dorado_9_MiPrimerMatriz\Dorado_9_MiPrimerMatriz\bin\Debug\Dorado_9_MiPrimerMatriz.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Dorado etapa 2 matices\Dorado_9_MiPrimerMatriz\Dorado_9_MiPrimerMatriz\obj\Debug\Dorado_9_MiPrimerMatriz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Dorado etapa 2 matices\Dorado_9_MiPrimerMatriz\Dorado_9_MiPrimerMatriz\bin\Debug\Dorado_9_MiPrimerMatriz.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Dorado etapa 2 matices\Dorado_9_MiPrimerMatriz\Dorado_9_MiPrimerMatriz\bin\Debug\Dorado_9_MiPrimerMatriz.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Dorado etapa 2 matices\Dorado_9_MiPrimerMatriz\Dorado_9_MiPrimerMatriz\obj\Debug\Dorado_9_MiPrimerMatriz.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Dorado etapa 2 matices\Dorado_9_MiPrimerMatriz\Dorado_9_MiPrimerMatriz\obj\Debug\Dorado_9_MiPrimerMatriz.pdb
