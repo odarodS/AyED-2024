@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\Tp1_Dorado_CobrarBecaGUI\Tp1_Dorado_CobrarBecaGUI\bin\Debug\Tp1_Dorado_CobrarBecaGUI.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\Tp1_Dorado_CobrarBecaGUI\Tp1_Dorado_CobrarBecaGUI\bin\Debug\Tp1_Dorado_CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\Tp1_Dorado_CobrarBecaGUI\Tp1_Dorado_CobrarBecaGUI\bin\Debug\Tp1_Dorado_CobrarBecaGUI.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\Tp1_Dorado_CobrarBecaGUI\Tp1_Dorado_CobrarBecaGUI\obj\Debug\Tp1_Dorado_CobrarBecaGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\Tp1_Dorado_CobrarBecaGUI\Tp1_Dorado_CobrarBecaGUI\obj\Debug\Tp1_Dorado_CobrarBecaGUI.Form1.resources
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\Tp1_Dorado_CobrarBecaGUI\Tp1_Dorado_CobrarBecaGUI\obj\Debug\Tp1_Dorado_CobrarBecaGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\Tp1_Dorado_CobrarBecaGUI\Tp1_Dorado_CobrarBecaGUI\obj\Debug\Tp1_Dorado_CobrarBecaGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\Tp1_Dorado_CobrarBecaGUI\Tp1_Dorado_CobrarBecaGUI\obj\Debug\Tp1_Dorado_CobrarBecaGUI.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\etapa4\Tp1_Dorado_CobrarBecaGUI\Tp1_Dorado_CobrarBecaGUI\obj\Debug\Tp1_Dorado_CobrarBecaGUI.pdb
