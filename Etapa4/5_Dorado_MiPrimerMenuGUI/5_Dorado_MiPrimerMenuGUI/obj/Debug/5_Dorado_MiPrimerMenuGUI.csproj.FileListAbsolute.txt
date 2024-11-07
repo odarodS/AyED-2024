@@ -1,0 +1,22 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 4 tp5\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\bin\Debug\5_Dorado_MiPrimerMenuGUI.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 4 tp5\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\bin\Debug\5_Dorado_MiPrimerMenuGUI.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 4 tp5\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\bin\Debug\5_Dorado_MiPrimerMenuGUI.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 4 tp5\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\5_Dorado_MiPrimerMenuGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 4 tp5\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\_5_Dorado_MiPrimerMenuGUI.Form1.resources
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 4 tp5\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\_5_Dorado_MiPrimerMenuGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 4 tp5\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\5_Dorado_MiPrimerMenuGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 4 tp5\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\5_Dorado_MiPrimerMenuGUI.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 4 tp5\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\5_Dorado_MiPrimerMenuGUI.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 4 tp5\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\_5_Dorado_MiPrimerMenuGUI.Form2.resources
+C:\Users\alumno.ET37\Downloads\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\bin\Debug\5_Dorado_MiPrimerMenuGUI.exe.config
+C:\Users\alumno.ET37\Downloads\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\5_Dorado_MiPrimerMenuGUI.exe
+C:\Users\alumno.ET37\Downloads\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\5_Dorado_MiPrimerMenuGUI.pdb
+C:\Users\alumno.ET37\Downloads\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\bin\Debug\5_Dorado_MiPrimerMenuGUI.exe
+C:\Users\alumno.ET37\Downloads\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\bin\Debug\5_Dorado_MiPrimerMenuGUI.pdb
+C:\Users\alumno.ET37\Downloads\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\5_Dorado_MiPrimerMenuGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\_5_Dorado_MiPrimerMenuGUI.Form1.resources
+C:\Users\alumno.ET37\Downloads\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\_5_Dorado_MiPrimerMenuGUI.Form2.resources
+C:\Users\alumno.ET37\Downloads\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\_5_Dorado_MiPrimerMenuGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Downloads\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\5_Dorado_MiPrimerMenuGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Downloads\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\_5_Dorado_MiPrimerMenuGUI.Form3.resources
+C:\Users\alumno.ET37\Downloads\5_Dorado_MiPrimerMenuGUI\5_Dorado_MiPrimerMenuGUI\obj\Debug\_5_Dorado_MiPrimerMenuGUI.Form4.resources
