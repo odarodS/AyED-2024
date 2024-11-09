@@ -1,9 +1,0 @@
-C:\Users\alumno.ET37\Documents\etapa0\Dorado_17_MiPrimeMenuObjetivo\Dorado_17_MiPrimeMenuObjetivo\bin\Debug\Dorado_17_MiPrimeMenuObjetivo.exe.config
-C:\Users\alumno.ET37\Documents\etapa0\Dorado_17_MiPrimeMenuObjetivo\Dorado_17_MiPrimeMenuObjetivo\bin\Debug\Dorado_17_MiPrimeMenuObjetivo.exe
-C:\Users\alumno.ET37\Documents\etapa0\Dorado_17_MiPrimeMenuObjetivo\Dorado_17_MiPrimeMenuObjetivo\bin\Debug\Dorado_17_MiPrimeMenuObjetivo.pdb
-C:\Users\alumno.ET37\Documents\etapa0\Dorado_17_MiPrimeMenuObjetivo\Dorado_17_MiPrimeMenuObjetivo\obj\Debug\Dorado_17_MiPrimeMenuObjetivo.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\etapa0\Dorado_17_MiPrimeMenuObjetivo\Dorado_17_MiPrimeMenuObjetivo\obj\Debug\Dorado_17_MiPrimeMenuObjetivo.exe
-C:\Users\alumno.ET37\Documents\etapa0\Dorado_17_MiPrimeMenuObjetivo\Dorado_17_MiPrimeMenuObjetivo\obj\Debug\Dorado_17_MiPrimeMenuObjetivo.pdb
-C:\Users\alumno.ET37\Downloads\etapa0\Dorado_17_MiPrimeMenuObjetivo\Dorado_17_MiPrimeMenuObjetivo\bin\Debug\Dorado_17_MiPrimeMenuObjetivo.exe.config
-C:\Users\alumno.ET37\Downloads\etapa0\Dorado_17_MiPrimeMenuObjetivo\Dorado_17_MiPrimeMenuObjetivo\obj\Debug\Dorado_17_MiPrimeMenuObjetivo.exe
-C:\Users\alumno.ET37\Downloads\etapa0\Dorado_17_MiPrimeMenuObjetivo\Dorado_17_MiPrimeMenuObjetivo\obj\Debug\Dorado_17_MiPrimeMenuObjetivo.pdb
