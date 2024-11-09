@@ -1,5 +1,0 @@
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\8_Dorado_EsMayor\8_Dorado_EsMayor\bin\Debug\8_Dorado_EsMayor.exe.config
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\8_Dorado_EsMayor\8_Dorado_EsMayor\bin\Debug\8_Dorado_EsMayor.exe
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\8_Dorado_EsMayor\8_Dorado_EsMayor\bin\Debug\8_Dorado_EsMayor.pdb
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\8_Dorado_EsMayor\8_Dorado_EsMayor\obj\Debug\8_Dorado_EsMayor.exe
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\8_Dorado_EsMayor\8_Dorado_EsMayor\obj\Debug\8_Dorado_EsMayor.pdb
