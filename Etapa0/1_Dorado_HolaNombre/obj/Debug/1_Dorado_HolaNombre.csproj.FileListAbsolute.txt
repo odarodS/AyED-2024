@@ -1,5 +1,0 @@
-C:\Users\alumno.ET37\Documents\Dorado2024\Etapa0\1_Dorado_HolaNombre\1_Dorado_HolaNombre\bin\Debug\1_Dorado_HolaNombre.exe.config
-C:\Users\alumno.ET37\Documents\Dorado2024\Etapa0\1_Dorado_HolaNombre\1_Dorado_HolaNombre\bin\Debug\1_Dorado_HolaNombre.exe
-C:\Users\alumno.ET37\Documents\Dorado2024\Etapa0\1_Dorado_HolaNombre\1_Dorado_HolaNombre\bin\Debug\1_Dorado_HolaNombre.pdb
-C:\Users\alumno.ET37\Documents\Dorado2024\Etapa0\1_Dorado_HolaNombre\1_Dorado_HolaNombre\obj\Debug\1_Dorado_HolaNombre.exe
-C:\Users\alumno.ET37\Documents\Dorado2024\Etapa0\1_Dorado_HolaNombre\1_Dorado_HolaNombre\obj\Debug\1_Dorado_HolaNombre.pdb
