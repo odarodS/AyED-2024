@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 0\Dorado_18_HastaQueSi\Dorado_18_HastaQueSi\bin\Debug\Dorado_18_HastaQueSi.exe.config
-C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 0\Dorado_18_HastaQueSi\Dorado_18_HastaQueSi\bin\Debug\Dorado_18_HastaQueSi.exe
-C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 0\Dorado_18_HastaQueSi\Dorado_18_HastaQueSi\bin\Debug\Dorado_18_HastaQueSi.pdb
-C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 0\Dorado_18_HastaQueSi\Dorado_18_HastaQueSi\obj\Debug\Dorado_18_HastaQueSi.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 0\Dorado_18_HastaQueSi\Dorado_18_HastaQueSi\obj\Debug\Dorado_18_HastaQueSi.exe
-C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa 0\Dorado_18_HastaQueSi\Dorado_18_HastaQueSi\obj\Debug\Dorado_18_HastaQueSi.pdb
