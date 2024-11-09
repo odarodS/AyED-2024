@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_Cumplidos_14\Dorado_Cumplidos_14\bin\Debug\Dorado_Cumplidos_14.exe.config
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_Cumplidos_14\Dorado_Cumplidos_14\bin\Debug\Dorado_Cumplidos_14.exe
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_Cumplidos_14\Dorado_Cumplidos_14\bin\Debug\Dorado_Cumplidos_14.pdb
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_Cumplidos_14\Dorado_Cumplidos_14\obj\Debug\Dorado_Cumplidos_14.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_Cumplidos_14\Dorado_Cumplidos_14\obj\Debug\Dorado_Cumplidos_14.exe
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_Cumplidos_14\Dorado_Cumplidos_14\obj\Debug\Dorado_Cumplidos_14.pdb
