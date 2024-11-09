@@ -1,5 +1,0 @@
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_DiezVeces_13\Dorado_DiezVeces_13\bin\Debug\Dorado_DiezVeces_13.exe.config
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_DiezVeces_13\Dorado_DiezVeces_13\bin\Debug\Dorado_DiezVeces_13.exe
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_DiezVeces_13\Dorado_DiezVeces_13\bin\Debug\Dorado_DiezVeces_13.pdb
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_DiezVeces_13\Dorado_DiezVeces_13\obj\Debug\Dorado_DiezVeces_13.exe
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_DiezVeces_13\Dorado_DiezVeces_13\obj\Debug\Dorado_DiezVeces_13.pdb
