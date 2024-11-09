@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\sebastian\etapa 1\Dorado_16_FizBuzz\Dorado_16_FizBuzz\bin\Debug\Dorado_16_FizBuzz.exe.config
-C:\Users\alumno.ET37\Documents\sebastian\etapa 1\Dorado_16_FizBuzz\Dorado_16_FizBuzz\bin\Debug\Dorado_16_FizBuzz.exe
-C:\Users\alumno.ET37\Documents\sebastian\etapa 1\Dorado_16_FizBuzz\Dorado_16_FizBuzz\bin\Debug\Dorado_16_FizBuzz.pdb
-C:\Users\alumno.ET37\Documents\sebastian\etapa 1\Dorado_16_FizBuzz\Dorado_16_FizBuzz\obj\Debug\Dorado_16_FizBuzz.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\sebastian\etapa 1\Dorado_16_FizBuzz\Dorado_16_FizBuzz\obj\Debug\Dorado_16_FizBuzz.exe
-C:\Users\alumno.ET37\Documents\sebastian\etapa 1\Dorado_16_FizBuzz\Dorado_16_FizBuzz\obj\Debug\Dorado_16_FizBuzz.pdb
