@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\7_Dorado_AlReves\7_Dorado_AlReves\bin\Debug\7_Dorado_AlReves.exe.config
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\7_Dorado_AlReves\7_Dorado_AlReves\bin\Debug\7_Dorado_AlReves.exe
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\7_Dorado_AlReves\7_Dorado_AlReves\bin\Debug\7_Dorado_AlReves.pdb
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\7_Dorado_AlReves\7_Dorado_AlReves\obj\Debug\7_Dorado_AlReves.exe
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\7_Dorado_AlReves\7_Dorado_AlReves\obj\Debug\7_Dorado_AlReves.pdb
