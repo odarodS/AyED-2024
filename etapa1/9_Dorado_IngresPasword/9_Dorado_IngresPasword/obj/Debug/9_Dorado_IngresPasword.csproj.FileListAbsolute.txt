@@ -1,5 +1,0 @@
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\9_Dorado_IngresPasword\9_Dorado_IngresPasword\bin\Debug\9_Dorado_IngresPasword.exe.config
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\9_Dorado_IngresPasword\9_Dorado_IngresPasword\bin\Debug\9_Dorado_IngresPasword.exe
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\9_Dorado_IngresPasword\9_Dorado_IngresPasword\bin\Debug\9_Dorado_IngresPasword.pdb
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\9_Dorado_IngresPasword\9_Dorado_IngresPasword\obj\Debug\9_Dorado_IngresPasword.exe
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\9_Dorado_IngresPasword\9_Dorado_IngresPasword\obj\Debug\9_Dorado_IngresPasword.pdb
