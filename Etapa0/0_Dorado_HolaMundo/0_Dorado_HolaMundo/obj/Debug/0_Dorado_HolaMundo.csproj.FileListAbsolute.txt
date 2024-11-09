@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\Dorado2024\Etapa0\0_Dorado_HolaMundo\0_Dorado_HolaMundo\bin\Debug\0_Dorado_HolaMundo.exe.config
-C:\Users\alumno.ET37\Documents\Dorado2024\Etapa0\0_Dorado_HolaMundo\0_Dorado_HolaMundo\bin\Debug\0_Dorado_HolaMundo.exe
-C:\Users\alumno.ET37\Documents\Dorado2024\Etapa0\0_Dorado_HolaMundo\0_Dorado_HolaMundo\bin\Debug\0_Dorado_HolaMundo.pdb
-C:\Users\alumno.ET37\Documents\Dorado2024\Etapa0\0_Dorado_HolaMundo\0_Dorado_HolaMundo\obj\Debug\0_Dorado_HolaMundo.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\Dorado2024\Etapa0\0_Dorado_HolaMundo\0_Dorado_HolaMundo\obj\Debug\0_Dorado_HolaMundo.exe
-C:\Users\alumno.ET37\Documents\Dorado2024\Etapa0\0_Dorado_HolaMundo\0_Dorado_HolaMundo\obj\Debug\0_Dorado_HolaMundo.pdb
