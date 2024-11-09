@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\6_Dorado_TblaMult\6_Dorado_TblaMult\bin\Debug\6_Dorado_TblaMult.exe.config
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\6_Dorado_TblaMult\6_Dorado_TblaMult\bin\Debug\6_Dorado_TblaMult.exe
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\6_Dorado_TblaMult\6_Dorado_TblaMult\bin\Debug\6_Dorado_TblaMult.pdb
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\6_Dorado_TblaMult\6_Dorado_TblaMult\obj\Debug\6_Dorado_TblaMult.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\6_Dorado_TblaMult\6_Dorado_TblaMult\obj\Debug\6_Dorado_TblaMult.exe
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\6_Dorado_TblaMult\6_Dorado_TblaMult\obj\Debug\6_Dorado_TblaMult.pdb
