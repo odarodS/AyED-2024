@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\3_Dorado_DimensionesEsfera\3_Dorado_DimensionesEsfera\bin\Debug\3_Dorado_DimensionesEsfera.exe.config
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\3_Dorado_DimensionesEsfera\3_Dorado_DimensionesEsfera\bin\Debug\3_Dorado_DimensionesEsfera.exe
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\3_Dorado_DimensionesEsfera\3_Dorado_DimensionesEsfera\bin\Debug\3_Dorado_DimensionesEsfera.pdb
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\3_Dorado_DimensionesEsfera\3_Dorado_DimensionesEsfera\obj\Debug\3_Dorado_DimensionesEsfera.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\3_Dorado_DimensionesEsfera\3_Dorado_DimensionesEsfera\obj\Debug\3_Dorado_DimensionesEsfera.exe
-C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\3_Dorado_DimensionesEsfera\3_Dorado_DimensionesEsfera\obj\Debug\3_Dorado_DimensionesEsfera.pdb
