@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\5_Dorado_ValorDouble\5_Dorado_ValorDouble\bin\Debug\5_Dorado_ValorDouble.exe.config
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\5_Dorado_ValorDouble\5_Dorado_ValorDouble\bin\Debug\5_Dorado_ValorDouble.exe
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\5_Dorado_ValorDouble\5_Dorado_ValorDouble\bin\Debug\5_Dorado_ValorDouble.pdb
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\5_Dorado_ValorDouble\5_Dorado_ValorDouble\obj\Debug\5_Dorado_ValorDouble.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\5_Dorado_ValorDouble\5_Dorado_ValorDouble\obj\Debug\5_Dorado_ValorDouble.exe
+C:\Users\alumno.ET37\Documents\Sebastian\Etapa1\5_Dorado_ValorDouble\5_Dorado_ValorDouble\obj\Debug\5_Dorado_ValorDouble.pdb
