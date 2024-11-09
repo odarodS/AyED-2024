@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_ParImpar\Dorado_ParImpar\bin\Debug\Dorado_ParImpar.exe.config
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_ParImpar\Dorado_ParImpar\bin\Debug\Dorado_ParImpar.exe
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_ParImpar\Dorado_ParImpar\bin\Debug\Dorado_ParImpar.pdb
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_ParImpar\Dorado_ParImpar\obj\Debug\Dorado_ParImpar.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_ParImpar\Dorado_ParImpar\obj\Debug\Dorado_ParImpar.exe
-C:\Users\alumno.ET37\Documents\Sebastian\etapa 1\Dorado_ParImpar\Dorado_ParImpar\obj\Debug\Dorado_ParImpar.pdb
