@@ -1,6 +1,0 @@
-c:\users\alumno.et37\documents\visual studio 2015\Projects\16_FizzBuzz_Dorado\16_FizzBuzz_Dorado\bin\Debug\16_FizzBuzz_Dorado.exe.config
-c:\users\alumno.et37\documents\visual studio 2015\Projects\16_FizzBuzz_Dorado\16_FizzBuzz_Dorado\bin\Debug\16_FizzBuzz_Dorado.exe
-c:\users\alumno.et37\documents\visual studio 2015\Projects\16_FizzBuzz_Dorado\16_FizzBuzz_Dorado\bin\Debug\16_FizzBuzz_Dorado.pdb
-c:\users\alumno.et37\documents\visual studio 2015\Projects\16_FizzBuzz_Dorado\16_FizzBuzz_Dorado\obj\Debug\16_FizzBuzz_Dorado.csprojResolveAssemblyReference.cache
-c:\users\alumno.et37\documents\visual studio 2015\Projects\16_FizzBuzz_Dorado\16_FizzBuzz_Dorado\obj\Debug\16_FizzBuzz_Dorado.exe
-c:\users\alumno.et37\documents\visual studio 2015\Projects\16_FizzBuzz_Dorado\16_FizzBuzz_Dorado\obj\Debug\16_FizzBuzz_Dorado.pdb
