@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\etapa 1\Dorado_CalculadoraBasica\Dorado_CalculadoraBasica\bin\Debug\Dorado_CalculadoraBasica.exe.config
+C:\Users\alumno.ET37\Documents\etapa 1\Dorado_CalculadoraBasica\Dorado_CalculadoraBasica\obj\Debug\Dorado_CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\etapa 1\Dorado_CalculadoraBasica\Dorado_CalculadoraBasica\bin\Debug\Dorado_CalculadoraBasica.exe
+C:\Users\alumno.ET37\Documents\etapa 1\Dorado_CalculadoraBasica\Dorado_CalculadoraBasica\bin\Debug\Dorado_CalculadoraBasica.pdb
+C:\Users\alumno.ET37\Documents\etapa 1\Dorado_CalculadoraBasica\Dorado_CalculadoraBasica\obj\Debug\Dorado_CalculadoraBasica.exe
+C:\Users\alumno.ET37\Documents\etapa 1\Dorado_CalculadoraBasica\Dorado_CalculadoraBasica\obj\Debug\Dorado_CalculadoraBasica.pdb
