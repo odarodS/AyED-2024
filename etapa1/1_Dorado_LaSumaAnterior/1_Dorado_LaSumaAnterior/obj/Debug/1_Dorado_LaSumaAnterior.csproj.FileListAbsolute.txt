@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\etapa 1\1_Dorado_LaSumaAnterior\1_Dorado_LaSumaAnterior\bin\Debug\1_Dorado_LaSumaAnterior.exe.config
+C:\Users\alumno.ET37\Documents\etapa 1\1_Dorado_LaSumaAnterior\1_Dorado_LaSumaAnterior\bin\Debug\1_Dorado_LaSumaAnterior.exe
+C:\Users\alumno.ET37\Documents\etapa 1\1_Dorado_LaSumaAnterior\1_Dorado_LaSumaAnterior\bin\Debug\1_Dorado_LaSumaAnterior.pdb
+C:\Users\alumno.ET37\Documents\etapa 1\1_Dorado_LaSumaAnterior\1_Dorado_LaSumaAnterior\obj\Debug\1_Dorado_LaSumaAnterior.exe
+C:\Users\alumno.ET37\Documents\etapa 1\1_Dorado_LaSumaAnterior\1_Dorado_LaSumaAnterior\obj\Debug\1_Dorado_LaSumaAnterior.pdb
