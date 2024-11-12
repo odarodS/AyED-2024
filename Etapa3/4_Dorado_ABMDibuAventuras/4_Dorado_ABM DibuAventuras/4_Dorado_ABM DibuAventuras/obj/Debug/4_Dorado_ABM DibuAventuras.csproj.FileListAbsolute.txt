@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\4_Dorado_ABMDibuAventuras\4_Dorado_ABM DibuAventuras\4_Dorado_ABM DibuAventuras\bin\Debug\4_Dorado_ABM DibuAventuras.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\4_Dorado_ABMDibuAventuras\4_Dorado_ABM DibuAventuras\4_Dorado_ABM DibuAventuras\bin\Debug\4_Dorado_ABM DibuAventuras.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\4_Dorado_ABMDibuAventuras\4_Dorado_ABM DibuAventuras\4_Dorado_ABM DibuAventuras\bin\Debug\4_Dorado_ABM DibuAventuras.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\4_Dorado_ABMDibuAventuras\4_Dorado_ABM DibuAventuras\4_Dorado_ABM DibuAventuras\obj\Debug\4_Dorado_ABM DibuAventuras.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\4_Dorado_ABMDibuAventuras\4_Dorado_ABM DibuAventuras\4_Dorado_ABM DibuAventuras\obj\Debug\4_Dorado_ABM DibuAventuras.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\4_Dorado_ABMDibuAventuras\4_Dorado_ABM DibuAventuras\4_Dorado_ABM DibuAventuras\obj\Debug\4_Dorado_ABM DibuAventuras.pdb
